@@ -1,4 +1,5 @@
-### Hi there 👋
+### Nicivian
+![Nicivian image](https://user-images.githubusercontent.com/73838074/108833777-51836380-75f3-11eb-81b6-7c2ceddfaf1b.png)
 
 <!--
 **Nicivian/Nicivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
