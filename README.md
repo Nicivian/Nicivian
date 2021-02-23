@@ -21,7 +21,7 @@ Depends, I'm always looking for good and friendly people, let's see how we get a
 That's great! [Join my Telegram channel](https://t.me/Vivi4n) where I post about my interests and how things are going on.
 
 ### **How can I contact you?**
-You can find me on [Telegram](https://t.me/Nicivian) or drop me a mail `dev.nicivian[at]gmail.com`
+You can [find me on Telegram](https://t.me/Nicivian) or drop me a mail `dev.nicivian[at]gmail.com`
 <!--
 ### I like your work
 [Some support options here <3]
