@@ -1,6 +1,6 @@
 ## **Hey**! 
 ### **Nicivian**
-![Nicivian's banner](https://user-images.githubusercontent.com/73838074/108833777-51836380-75f3-11eb-81b6-7c2ceddfaf1b.png)
+![Nicivian's banner](https://user-images.githubusercontent.com/73838074/109010436-c62ece80-76d5-11eb-90ce-57660756c8f6.png)
 
 ### **Who are you?**
 I'm Vivian a.k.a Nicivian, a student developer.
