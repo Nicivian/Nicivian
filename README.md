@@ -6,7 +6,7 @@
 I'm Vivian a.k.a Nicivian, a student developer.
 
 ### **What are your interests?**
-FOSS, computers, reading a ton of fiction books, collecting things like watches and coins, listening to music and not to mention I can play some decent Piano.
+FOSS, computers, reading a ton of fiction books, collecting things like watches, listening to music and not to mention I can play some decent Piano.
 
 ### **Where do you live?**
 ![The Secret](https://user-images.githubusercontent.com/73838074/108852234-581dd500-760b-11eb-85f1-269907b84fb1.png)
